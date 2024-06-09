@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @TanzCode
-- 👀 I’m interested in ...
+- 👀 I’m interested in fullstack 
 - 🌱 I’m currently learning ASP.net...
 - 📫 How to reach me hareethtahani@gmail.com
-- ⚡ Fun fact: Cloud walker 🤍
+- ⚡ Fun fact: I need more coffeee☕..
+  
 
 <!---
 TanzCode/TanzCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
