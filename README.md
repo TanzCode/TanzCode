@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning ASP.net...
 - 📫 How to reach me hareethtahani@gmail.com
 - ⚡ Fun fact: I need more coffeee☕..
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
   
 
 <!---
