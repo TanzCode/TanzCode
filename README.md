@@ -7,6 +7,11 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=8A00CA&center=true&width=600&lines=Software+Engineer..;A+Tech+Seeker)](https://git.io/typing-svg) 
+<div style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=8A00CA&center=true&width=600&lines=Software+Engineer..;A+Tech+Seeker" alt="Typing SVG">
+  </a>
+</div>
 
 <!---
 TanzCode/TanzCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
